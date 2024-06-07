@@ -9,7 +9,7 @@ i = 2
 i = 3
 i = 4
 ...
-i = 10
+i = 20
     """
     print(f"{num} x {i} = {num * i}")
 
