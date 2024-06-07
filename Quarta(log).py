@@ -9,6 +9,6 @@ print("a media foi: " + str(resultado))
 
 # verificar se o aluno foi aprovado ou reprovado 
 if(resultado >= 7):
-    print("aluno aprovado")
+    print("aluno aprovado ")
 else:
-    print("aluno reprovado")
+    print("aluno reprovado ")

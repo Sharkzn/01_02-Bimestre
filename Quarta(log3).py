@@ -6,9 +6,9 @@ média = (nota1 + nota2 + nota3) / 3
 
 #verificar a média
 if média >= 7:
-    print("O aluno foi APROVADO!!!!")
+    print("O aluno foi APROVADO!!!")
 elif média <= 5:
-    print("O aluno esta em RECUPERAÇÂO!!!!")
+    print("O aluno esta em RECUPERAÇÂO!!!")
 else:
-    print("O aluno foi REPROVADO!!!!")
+    print("O aluno foi REPROVADO!!!")
     
